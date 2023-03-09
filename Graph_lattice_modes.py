@@ -1,6 +1,7 @@
 #Graphite Frequencies 
 #Siebentritt et.al 1997 at K point
 #Aizawa et.al 1990      at T,M point
+# these are angular frequencies!!!!
 
 a_s = 0 ; a_0 = 1.42E-10 ; a_1 = 364 ; a_2 =  62
 y_1 = 8.30E-19; y_2 = 3.38E-19
